@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afroz Shaikh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP, Python, Next Js, React Native
+- 🌱 I’m currently learning PHP, Next Js, React Js
 - 💞️ I’m looking to collaborate on Opensource Projects
 - 📫 Reach me afrozshaikh78901@gmail.com
   - [Linkedin](https://www.linkedin.com/in/iamafrozshaikh)
